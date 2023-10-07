@@ -74,9 +74,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a1c9ff23dfd567ba",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -205,6 +215,20 @@
   },
   "active": "84573f63c82bf679",
   "lastOpenFiles": [
+    "Capstone/Semana 2 sprint 1.md",
+    "Capstone/DB PARKING.md",
+    "Capstone/Untitled.md",
+    "Capstone/Transitioning from Scrum to Extreme Programming (XP).md",
+    "Capstone/Components.md",
+    "Capstone/DB Estacionamientos.md",
+    "Capstone/09-09-2023.md",
+    "Capstone/Untitled/Reverse Proxy vs API Getaway.md",
+    "Capstone/Untitled/FastAPI endpoints are secure, properly documented, and follow RESTful principles.md",
+    "Capstone/Untitled/ESP8266 conexión a mqtt con arduino.md",
+    "Capstone/Untitled",
+    "Capstone/Notes.md",
+    "Capstone",
+    "Untitled",
     "Proyecto de interfaz para una API.md",
     "Python Flask Bootstrap App.md",
     "Como funciona Flask.md",
